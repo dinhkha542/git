@@ -1,1 +1,17 @@
-touch <file> //them file
+*them file
+touch <file>
+*kiem tra co ? file
+ls
+*kiem tra nhanh
+git branck 
+*tao nhanh
+git checkout -b <ten nhanh>
+*chuyen sang master
+git checkout master
+git branch
+* chuyen sang nhanh
+git chekout ten nhanh
+git branch
+*push len nhanh
+git push origin <ten nhanh>
+*
