@@ -1,17 +1,25 @@
 *them file
-touch <file>
+	touch <file>
 *kiem tra co ? file
-ls
+	ls
 *kiem tra nhanh
-git branck 
+	git branch 
 *tao nhanh
-git checkout -b <ten nhanh>
+	git checkout -b <ten nhanh>
 *chuyen sang master
-git checkout master
-git branch
+	git checkout master
+	git branch
 * chuyen sang nhanh
-git chekout ten nhanh
-git branch
+	git chekout ten nhanh
+	git branch
 *push len nhanh
-git push origin <ten nhanh>
+	git push origin <ten nhanh>
+*doi ten nhanh
+	git branch -d <ten nhanh>
+	git branch
+*chinh sua..di vao nhanh
+	ls
+	ls -a
+	ls -a // ra nhanh
 *
+	
